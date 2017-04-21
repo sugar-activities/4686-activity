@@ -1,0 +1,10 @@
+[Activity]
+name = Spirituality for Kids 5
+activity_version = 3
+bundle_id = org.sfk.SFK5
+exec = sugar-activity activity.VideoPlayerActivity
+icon = sfk
+license = MIT
+summary = videos from Spirituality for Kids (Part 5)
+
+
